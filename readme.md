@@ -68,3 +68,8 @@ streamlit run app.py
 - *Show closing prices for AAPL in recent trading sessions*
 - *Compare average trading volumes by tech company*
 - *What was the highest recorded price for MSFT?*
+
+## 🚀 Live Demo
+
+You can access the live application here:  
+👉 **[Enterprise Natural Language Analytics](https://enterprise-nl-analytics.streamlit.app/)**
