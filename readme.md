@@ -1,6 +1,6 @@
 # 📈 Enterprise Natural Language Analytics Engine
 
-An enterprise-grade, secure, zero-cost Text-to-SQL data visualization and analytics platform built for production environments. This application translates natural language prompts into secure SQLite queries, validates them against AST-based security guardrails, executes live financial analytics, and dynamically renders Plotly visual charts.
+An enterprise-grade, secure, zero-cost Text-to-SQL data visualization and analytics platform built for production environments. This application translates natural language prompts into secure SQLite queries, validates them against AST-based security guardrails, executes live financial analytics, and dynamically renders the Plotly visual charts.
 
 ---
 
