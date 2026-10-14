@@ -87,4 +87,7 @@ if submitted and user_prompt.strip():
         except SecurityError as se:
             st.error(f"🚨 Security Block: {se}")
         except Exception as e:
-            st.error(f"An error occurred during execution: {e}")
+            if "503" in str(e):
+                st.warning("The AI model is busy right now. Please try again in a minute.")
+            else:
+                st.error(f"An error occurred during execution: {e}")
